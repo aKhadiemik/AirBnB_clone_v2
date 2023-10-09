@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-starts a Flask web application
+Flask application with route to states list
 """
 
 from flask import Flask, render_template
